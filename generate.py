@@ -2,7 +2,7 @@ from json import dumps
 from random import randint
 
 TRAIN_SET_LIMIT = 1000
-TRAIN_SET_COUNT = 1000
+TRAIN_SET_COUNT = 10000
 
 TRAIN_INPUT = list()
 TRAIN_OUTPUT = list()
